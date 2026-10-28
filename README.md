@@ -1,6 +1,18 @@
 # cowpath
 
-A Claude Code skill that reads your own session history, finds the work you keep repeating, and turns it into new skills, or into edits to skills you already have.
+```
+ _________________________________________________
+/ A Claude Code skill that reads your own session \
+| history, finds the work you keep repeating, and |
+| turns it into new skills, or into edits to      |
+\ skills you already have.                        /
+ -------------------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
 
 The name comes from "pave the cowpaths": build the path where people already walk.
 
